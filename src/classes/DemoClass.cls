@@ -4,6 +4,6 @@ public class DemoClass {
 		System.debug('This this a test file');
     }
 	
-	/* Test */
+	/* Test Sample */
     
 }
