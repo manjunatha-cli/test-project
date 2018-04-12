@@ -5,5 +5,7 @@ public class DemoClass {
     }
 	
 	/* Test Sample */
-    
+    public void doNothing() {
+
+    }
 }
